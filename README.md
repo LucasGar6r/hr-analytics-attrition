@@ -16,3 +16,24 @@ O pipeline envolve:
 - Comunicação visual e técnica dos achados
 
 ## Organização do Repositório 📁
+├── notebooks/ 
+├── scripts/ 
+├── visualizacoes/ 
+├── data/ 
+├── requirements.txt 
+└── README.md
+
+## Como utilizar 💻
+Instale as dependências com:
+
+``bash
+pip install -r requirements.txt
+``
+
+Métricas-chave 📊
+- Área sob a curva Precision-Recall (PR-AUC)
+- F2-Score como métrica priorizada
+- Correlação de Matthews
+- Métricas sensíveis a custo
+Considerações finais 🔚
+Esse projeto busca conectar análise técnica com impacto real no negócio, traduzindo dados em decisões mais informadas na gestão de talentos.
